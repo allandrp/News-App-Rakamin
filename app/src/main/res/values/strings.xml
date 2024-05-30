@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News App Rakamin</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis rhoncus tellus, sit amet mollis orci. Cras pretium orci suscipit lorem porta, sed aliquam orci commodo. Donec ultrices metus id sapien tempus, non lobortis risus suscipit. Suspendisse potenti. In congue ex metus, viverra scelerisque sapien lacinia a. Vestibulum nec venenatis nunc. Fusce tincidunt imperdiet cursus. Nunc sit amet commodo tellus, sit amet tempor eros. Etiam et enim malesuada, egestas nibh id, molestie orci. Morbi vulputate consequat sapien. Morbi ac rutrum lorem.</string>
+    <string name="all_news_text">Semua Berita</string>
+    <string name="headline_news_text">Berita Terkini</string>
+</resources>
